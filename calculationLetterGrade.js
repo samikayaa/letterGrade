@@ -19,3 +19,4 @@ if (finalGrade >= 90 && finalGrade <= 100) {
 
 console.log(midterm);
 console.log(final);
+console.log(letterGrade);
